@@ -37,6 +37,7 @@
 |Shift|ignore|
 ---------------------------------------------- 
 Edit Mode (press Enter to enable)
+----------------------------------------------
 |key|description|
 |---|---|
 |Tab|code completion or indent|
