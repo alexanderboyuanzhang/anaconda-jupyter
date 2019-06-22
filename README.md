@@ -1,7 +1,7 @@
 # anaconda-jupyter
 
 
-|Command Mode (press Esc to enable)|
+### Command Mode (press Esc to enable)
 ----------------------------------------------
 |key|description|
 |---|---|
@@ -36,7 +36,9 @@
 |Shift-­Space|scroll up|
 |Shift|ignore|
 ---------------------------------------------- 
-|Edit Mode (press Enter to enable)|
+Edit Mode (press Enter to enable)
+|key|description|
+|---|---|
 |Tab|code completion or indent|
 |Shift-Tab|tooltip|
 |Ctrl-]|indent|
