@@ -4,7 +4,7 @@
 ### Command Mode (press Esc to enable)
 ----------------------------------------------
 |key|description|
-|---:|---:|
+|---|---|
 |Enter |enter edit mode|
 |Shift-­Enter|run cell, select below|
 |Ctrl-Enter|run cell|
